@@ -1,5 +1,9 @@
 [
   {
+    "package": "Anaconda",
+    "oncran": true
+  },
+  {
     "package": "ImaginR",
     "oncran": true
   }
