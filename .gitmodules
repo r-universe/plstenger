@@ -8,3 +8,8 @@
 	url = https://github.com/plstenger/anaconda
 	shallow = true
 	registered = true
+[submodule "ImaginR"]
+	path = ImaginR
+	url = https://github.com/plstenger/imaginr
+	shallow = true
+	registered = true
